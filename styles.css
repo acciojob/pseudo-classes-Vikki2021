@@ -1,1 +1,36 @@
 /*  your css code here. If applicable */
+body {
+	background-color: rgb(135,206,235);
+}
+
+#fp {
+	color:white;
+	background-color: black;
+}
+
+#tp {
+	color: red;
+}
+
+ul {
+	width: 50%;
+	padding: 10ox;
+}
+
+#first {
+	background-color: white;
+	font-size: 22px;
+}
+
+.second {
+	background-color: gray;
+}
+
+#third {
+	background-color: pink;
+}
+
+#fifth {
+	background-color: white;
+	font-size: 22px;
+}
